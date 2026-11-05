@@ -1,0 +1,8 @@
+2026-11-05 10:00:00 INFO Server started
+2026-11-05 10:05:00 INFO User logged in
+2026-11-05 10:10:00 WARNING High memory usage
+2026-11-05 10:15:00 ERROR Database connection failed
+2026-11-05 10:20:00 INFO Request completed
+2026-11-05 10:25:00 ERROR File not found
+2026-11-05 10:30:00 WARNING CPU usage high
+2026-11-05 10:35:00 INFO Server running
